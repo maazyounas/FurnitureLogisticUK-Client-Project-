@@ -161,9 +161,7 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-**Shahzaib Gulfraz**
-- GitHub: [@Shahzaib-Gulfraz](https://github.com/Shahzaib-Gulfraz)
+**Muhammad Maaz Younas**
+- GitHub: [@maazyounas](https://github.com/maazyounas)
 
 ---
-
-Made with ❤️ using Next.js
